@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Agenda una sesión conmigo: "https://calendly.com/karen_datatutor/reunion"
 
 ################
 # --- Logo --- #
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "karencofre.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
